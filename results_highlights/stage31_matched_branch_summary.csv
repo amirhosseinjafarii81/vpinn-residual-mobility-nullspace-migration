@@ -1,0 +1,3 @@
+seed,control_escape_onset,refined_escape_onset,control_auc_relL2,refined_auc_relL2,refined_auc_lower,control_final_relL2,refined_final_relL2,refined_final_relL2_lower,refined_certified_escape,control_final_mode25_fraction,refined_final_mode25_fraction,trajectory_improvement_pass
+25,-1,3025,11.78292378205504,5.403032602046308,True,0.010705829353508807,0.004055740850778506,True,True,0.8118710088605484,0.015348999348603103,True
+27,-1,-1,16.779952249984788,11.39005230930091,True,0.016711070596499147,0.01063383112700904,True,False,0.2091778655394022,0.03649528965083043,True

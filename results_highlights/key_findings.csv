@@ -1,0 +1,8 @@
+finding,exact_result,stage,public_claim
+Persistent residual-mobility collapse precedes certified Adam conflict,5/5 seeds; median lead 1475 epochs,27R,Supported in the tested 1D family; not a universal theorem.
+Weak loss can be nearly zero while L2 solution error remains material,"seed 27: loss=4.159041e-13, relL2=1.672%",30R,Known broadly as a finite-test-space/spurious-mode risk; not claimed as novel by itself.
+P1 test space has structurally blind sine modes,"k=25,50,75 on the 25-element P1 mesh; capture(k=25)=1.136e-15",30R,Specific structural audit of the chosen finite test space.
+Matched-state refinement exposes hidden error,seed 27 visibility 2.323e-10 -> 0.659 (2.837e+09x),31R,Matched-state intervention; same network and Adam state.
+Error migrates into the complement of the replacement test space,V26 visibility 0.659 -> 5.685e-11; old V25 sees 0.446,32R,Strongest novelty candidate; controlled temporal matched-state evidence.
+Persistent union recovers visibility and certifies escape,union certified escape onset=4025; final union self-visibility=0.743,33R,Transient trajectory rescue supported; late-time stability not guaranteed.
+Late union instability is Gauss-Newton dominated curvature overshoot,Both precommitted spike windows classified CURVATURE_OVERSHOOT; GN curvature >99.9% of total,34R,"Mechanistic closure for one union trajectory, not a universal Adam claim."
